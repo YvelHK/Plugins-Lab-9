@@ -3,7 +3,6 @@ using UnityEngine;
 public class TargetBuilder : MonoBehaviour
 {
     [SerializeField] GameObject targetPrefab;
-    // Color, point val, hits to break, and spawn location/move dir as components
 
     public void BuildTarget()
     {
